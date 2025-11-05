@@ -25,7 +25,7 @@ Simple CSV and visual output
 
 ## Program :
 
-#### Developed by : Rakshitha J
+#### Developed by : SIVAKUMAR R
 #### Register no : 212223230209
 #### Date : 05-11-2025
 
